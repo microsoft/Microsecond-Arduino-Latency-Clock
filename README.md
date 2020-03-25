@@ -5,8 +5,11 @@ The clock starts from zero and continues to displayelapsed time since the device
 
 This clock can be then visualized through an external observer [3] using high refresh cameras.
 
+
 [1] Gruen, R., Ofek, E., Steed, A., Gal, R., Sinclair, M., & Gonzalez-Franco, M. (2020) Measuring System Visual Latency through Cognitive Latency on Video See-Through AR devices. IEEE VR 2020
+
 [2] Lee,T. P. (1975) Effect of junction capacitance on the rise time of led’s and onthe turn-on delay of injection lasers. The Bell System Technical Journal,54(1):53–68, Jan 1975.
+
 [3] Wu, W., Dong, Y., & Hoover, A. (2013). Measuring digital system latency from sensing to actuation at continuous 1-ms resolution. Presence: Teleoperators and Virtual Environments, 22(1), 20-35.
 
 
