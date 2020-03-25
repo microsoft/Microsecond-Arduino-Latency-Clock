@@ -1,6 +1,7 @@
 
 Microsecond Arduino Code and Schematics accompanying the paper presented in IEEE VR 2020 "Measuring System Visual Latency through Cognitive Latency on Video See-Through AR devices" by Robert Gruen, Eyal Ofek, Antony Steed †, Ran Gal, Mike Sinclair, and Mar Gonzalez-Franco
 
+![alt text](Clock.png)
 
 # Contributing
 
