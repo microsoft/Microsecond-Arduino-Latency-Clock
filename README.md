@@ -3,7 +3,7 @@ Microsecond Arduino Code and Schematics accompanying the paper presented in IEEE
 
 ![alt text](Clock.png)
 
-![alt text](Microsecond clock LEDs - CAD Rendering.png)
+![alt text]("Microsecond clock LEDs - CAD Rendering.png")
 
 # Contributing
 
