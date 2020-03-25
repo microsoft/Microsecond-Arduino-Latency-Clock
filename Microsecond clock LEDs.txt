@@ -1,0 +1,43 @@
+Partlist exported from C:/Users/robgruen/OneDrive/Documents/EAGLE/projects/Microsecond Clock/Microsecond clock LEDs.sch at 3/24/2020 5:12 PM
+
+Part Value   Device      Package        Description                   MF MPN         OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+DIS1 HD-E101 HD-E101     HDSP-I         LED DISPLAY                                  unknown    unknown   0                     
+DIS2 HD-E101 HD-E101     HDSP-I         LED DISPLAY                                  unknown    unknown   0                     
+DIS3 HD-E101 HD-E101     HDSP-I         LED DISPLAY                                  unknown    unknown   0                     
+DIS4 HD-E101 HD-E101     HDSP-I         LED DISPLAY                                  unknown    unknown   0                     
+R1   1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R2   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R3   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R4   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R5   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R6   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R7   1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R8   1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R9   1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R10  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R11  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R12  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R13  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R14  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R15  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R16  1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R17  1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R18  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R19  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R20  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R21  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R22  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R23  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R24  1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R25  1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R26  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R27  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R28  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R29  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R30  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R31  1k      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+R32  1K      R-US_0207/7 0207/7         RESISTOR, American symbol                                         22         R          
+X1   2510-   2510-       PAK100/2500-10 3M (TM) Pak 100 4-Wall Header 3M 2510-6002UB 9838244    46F4725   0                     
+X2   2510-   2510-       PAK100/2500-10 3M (TM) Pak 100 4-Wall Header 3M 2510-6002UB 9838244    46F4725   0                     
+X3   2510-   2510-       PAK100/2500-10 3M (TM) Pak 100 4-Wall Header 3M 2510-6002UB 9838244    46F4725   0                     
+X4   2510-   2510-       PAK100/2500-10 3M (TM) Pak 100 4-Wall Header 3M 2510-6002UB 9838244    46F4725   0                     
