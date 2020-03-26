@@ -1,5 +1,6 @@
 
 Microsecond Arduino Due Code and Schematics accompanying the paper presented in IEEE VR 2020 "Measuring System Visual Latency through Cognitive Latency on Video See-Through AR devices" [1]
+https://www.microsoft.com/en-us/research/publication/measuring-system-visual-latency-through-cognitive-latency-on-video-see-through-ar-devices/
 
 The clock starts from zero and continues to displayelapsed time since the device was powered on. The LED turn-on andturn-off time is sub-microsecond [2], therefore we know that ourclock is sufficient for at least 0.1 millisecond measurements as theLEDs turn on and off faster than we are updating the digit segments.
 
