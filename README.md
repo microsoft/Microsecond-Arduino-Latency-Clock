@@ -1,4 +1,6 @@
 
+# Microsecond Arduino Due Code and Schematics
+
 Microsecond Arduino Due Code and Schematics accompanying the paper presented in IEEE VR 2020 "Measuring System Visual Latency through Cognitive Latency on Video See-Through AR devices" [1]
 https://www.microsoft.com/en-us/research/publication/measuring-system-visual-latency-through-cognitive-latency-on-video-see-through-ar-devices/
 
