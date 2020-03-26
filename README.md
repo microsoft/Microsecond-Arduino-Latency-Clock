@@ -15,6 +15,7 @@ This clock can be then visualized through an external observer [3] using high re
 
 [3] Wu, W., Dong, Y., & Hoover, A. (2013). Measuring digital system latency from sensing to actuation at continuous 1-ms resolution. Presence: Teleoperators and Virtual Environments, 22(1), 20-35.
 
+Schematics created with Eagle v 9.5.2.
 
 ![alt text](Clock.png)
 
